@@ -1,0 +1,63 @@
+body{
+    width:700px ;
+    height:600px ;
+    background-image:url("/images/pic8.jpg");
+    background-size: 100% 100%;
+}
+h1{
+    font: size 50px;
+    color: aqua;
+    justify-content: center;
+}
+
+h3{
+    font: size 50px;
+    color: aqua;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #e7c7c7;
+  }
+
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .pic{
+    height: 50px;
+    width: 50px;
+    border-radius: 30%;
+  }
+
+
+}
+
+ 
+
+  
